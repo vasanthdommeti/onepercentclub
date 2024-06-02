@@ -14,6 +14,10 @@ To start Metro, run the following command from the _root_ of your React Native p
 # using npm
 npm start
 
+https://github.com/vasanthdommeti/onepercentclub/assets/139646696/0a5a231f-1fe9-4346-8d1f-e50580451a7d
+
+
+
 # OR using Yarn
 yarn start
 ```
