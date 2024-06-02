@@ -36,6 +36,7 @@ yarn android
 
 ```bash
 # installing pods
+
 #Change directory to ios
 cd ios
 pod install
